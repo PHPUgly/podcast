@@ -10,8 +10,8 @@ In this, this first show of PHPUgly we meet the host and learn what makes them t
 * We spend some time talking about the goals of this podcast, which frankly isn't that much. 
 * Drinking and coding 
 * The new sub reddit PHP LOL 
-* Discussion around Laravel Spark and the decission to charge for it.
-* New Braintree intergration into Laravel Cashier
+* Discussion around Laravel Spark and the decision to charge for it.
+* New Braintree integration into Laravel Cashier
 * New communication app called [Wired](https://wired.com)
 
 
