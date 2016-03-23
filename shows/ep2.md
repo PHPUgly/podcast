@@ -1,7 +1,7 @@
 # PHPUgly - Episode 2
 *recorded March 21, 2016*
 
-[Sound Cloud](https://soundcloud.com/user-554331338/episode2)
+[Sound Cloud](https://soundcloud.com/phpugly/episode2)
 
 **Topics**
 
