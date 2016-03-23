@@ -9,4 +9,7 @@ PHPUgly podcast are the ramblings of a couple developers (Eric Van Johnson,[ @sh
 
 [PHPUgly on Twitter](https://twitter.com/phpugly) 
 
+[PHPUgly on SoundCloud](https://soundcloud.com/phpugly/)
+
 Email us at [Podacast@phpugly.com](mailto:podcast@phpugly.com)
+
