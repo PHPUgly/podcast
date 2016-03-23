@@ -1,7 +1,7 @@
 # PHPUgly - Episode 1
 *recorded March 13, 2016*
 
-[Sound Cloud](https://soundcloud.com/user-554331338/phpugly-ep1)
+[Sound Cloud](https://soundcloud.com/phpugly/phpugly-ep1)
 
 In this, this first show of PHPUgly we meet the host and learn what makes them tick
 * Eric Van Johnson [Twitter](https://twitter.com/shocm) / [Github](https://github.com/ericvanjohnson/) / [Blog](https://www.shocm.com) / [About.me](https://about.me/shocm) 
