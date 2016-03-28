@@ -32,7 +32,7 @@
 
 ## The hosts
 * Eric Van Johnson [Twitter](https://twitter.com/shocm) / [Github](https://github.com/ericvanjohnson/) / [Blog](https://www.shocm.com) / [About.me](https://about.me/shocm) 
-* Tom Rideout [Twitter](https://twitter.com/realrideout) / [Github](https://github.com/trideout/)
+* Tom Rideout [Twitter](https://twitter.com/realrideout) / [Github](https://github.com/trideout/) / [About.me](https://about.me/thomasrideout)
 
 
 Follow us on Twitter [@PHPUgly](https://twitter.com/phpugly) 
