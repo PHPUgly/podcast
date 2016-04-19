@@ -7,7 +7,7 @@
 **Topics**
 
 * [Doctrine](http://www.doctrine-project.org/)
-* Mental Heal in Technology
+* Mental Health in Technology
   * [Prompt](http://mhprompt.org/)
   * [Open Source Metal Illness](https://osmihelp.org/)
 * [Spark](https://spark.laravel.com/)
