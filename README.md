@@ -14,4 +14,4 @@ PHPUgly podcast are the ramblings of a couple developers (Eric Van Johnson,[ @sh
 Email us at [Podacast@phpugly.com](mailto:podcast@phpugly.com)
 
 **Feedback**
-* José Borges [Site](http://www.joseborges.pt) / [Twitter](https://twitter.com/joselaborges) / [Github](https://github.com/JoseBorges/) : Love to hear your podcast, specially you three guys get together, so when you see some stats from Portugal, that's me :) And remember... Don't forget to use a password manager ;)
+* José Borges [Site](http://www.joseborges.pt) / [Twitter](https://twitter.com/joselaborges) / [Github](https://github.com/JoseBorges/) : Love to hear your podcast, specially when you three guys get together. Im from one of the wierd countries that subscribe to your podcast, Portugal :) And remember... Use a password manager ;)
