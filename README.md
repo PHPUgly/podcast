@@ -16,3 +16,11 @@ Email us at [Podacast@phpugly.com](mailto:podcast@phpugly.com)
 **Feedback**
 
 > José Borges [Site](http://www.joseborges.pt) / [Twitter](https://twitter.com/joselaborges) / [Github](https://github.com/JoseBorges/) : Love to hear your podcast, specially when you three guys get together. Im from one of the wierd countries that subscribe to your podcast, Portugal :) And remember... Use a password manager ;)
+
+---
+
+> Marcus Moore [Twitter](https://twitter.com/marcusamoore) / [Github](https://github.com/marcusmoore): Pour yourself a glass of Lagavulin and listen in as Eric, Tom and Silent John discuss the week's PHP news.
+>
+> PHPUgly is a funny and informative podcast that doesn't take itself too seriously and just when the hosts put a smile on your face, Tom's Doom and Gloom Minute™ brings you right back to our horrible reality.
+>
+> ⭐️⭐️⭐️⭐️⭐️
