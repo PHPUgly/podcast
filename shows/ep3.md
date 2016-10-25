@@ -16,7 +16,7 @@
   * [Full Stack](http://fullstackradio.com) ([@fullstackradio](https://twitter.com/fullstackradio)) Hosted by Adam Wathan ([@adamwathan](https://twitter.com/adamwathan))
   * **Laravel Podcast**
     * [Laravel News Podcast](http://laravel-news.com) ([@laravelnews](https://twitter.com/laravelnews)) Hosted by Eric L. Barnes ([@ericlbarnes](https://twitter.com/ericlbarnes)) and Jack Fruh ([@jackfruh](https://twitter.com/jackfruh))
-    * [The Laravel Podcast](http://www.laravelpodcast.com) ([@laravelnews](https://twitter.com/laravelnews))@laravelpodcast) Hosted by Matt Stauffer ([@taylorOtwell](https://twitter.com/stauffermatt)), Taylor Otwell ([@taylorOtwell](https://twitter.com/taylorOtwell)), and Jeffrey Way ([@jeffrey_way](https://twitter.com/jeffrey_way))
+    * [The Laravel Podcast](http://www.laravelpodcast.com) ([@laravelpodcast](https://twitter.com/laravelpodcast))) Hosted by Matt Stauffer ([@taylorOtwell](https://twitter.com/stauffermatt)), Taylor Otwell ([@taylorOtwell](https://twitter.com/taylorOtwell)), and Jeffrey Way ([@jeffrey_way](https://twitter.com/jeffrey_way))
   * **Other PHP Podcast**
     * [/dev/hell](http://devhell.info/)
     * [PHP Town Hall](http://www.jupiterbroadcasting.com/)
